@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/jtolds/gls"
-	"github.com/smartystreets/goconvey/convey/reporting"
+	"github.com/smartystreets/convey/reporting"
 )
 
 type conveyErr struct {
