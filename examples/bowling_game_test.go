@@ -12,7 +12,7 @@ package examples
 import (
 	"testing"
 
-	. "github.com/smartystreets/convey"
+	. "github.com/wallclockbuilder/convey"
 )
 
 func TestBowlingGameScoring(t *testing.T) {

@@ -1,6 +1,6 @@
 package convey
 
-import "github.com/smartystreets/assertions"
+import "github.com/wallclockbuilder/assertions"
 
 var (
 	ShouldEqual          = assertions.ShouldEqual

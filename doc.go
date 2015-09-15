@@ -3,7 +3,7 @@
 // packages from this project as they serve internal purposes.
 package convey
 
-import "github.com/smartystreets/convey/reporting"
+import "github.com/wallclockbuilder/convey/reporting"
 
 ////////////////////////////////// suite //////////////////////////////////
 
