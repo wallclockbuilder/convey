@@ -3,7 +3,7 @@ package examples
 import (
 	"testing"
 
-	. "github.com/smartystreets/convey"
+	. "github.com/wallclockbuilder/convey"
 )
 
 func TestIntegerManipulation(t *testing.T) {

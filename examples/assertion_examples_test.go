@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/smartystreets/convey"
+	. "github.com/wallclockbuilder/convey"
 )
 
 func TestAssertionsAreAvailableFromConveyPackage(t *testing.T) {

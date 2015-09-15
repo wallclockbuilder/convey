@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/jtolds/gls"
-	"github.com/smartystreets/assertions"
-	"github.com/smartystreets/convey/reporting"
+	"github.com/wallclockbuilder/assertions"
+	"github.com/wallclockbuilder/convey/reporting"
 )
 
 func init() {

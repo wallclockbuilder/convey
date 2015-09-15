@@ -1,7 +1,7 @@
 package convey
 
 import (
-	"github.com/smartystreets/convey/reporting"
+	"github.com/wallclockbuilder/convey/reporting"
 )
 
 type nilReporter struct{}

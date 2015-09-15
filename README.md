@@ -1,13 +1,13 @@
 Convey is awesome Go testing
 ==============================
 
-[![Build Status](https://travis-ci.org/smartystreets/convey.png)](https://travis-ci.org/smartystreets/convey)
-[![GoDoc](https://godoc.org/github.com/smartystreets/convey?status.svg)](http://godoc.org/github.com/smartystreets/convey)
+[![Build Status](https://travis-ci.org/wallclockbuilder/convey.png)](https://travis-ci.org/wallclockbuilder/convey)
+[![GoDoc](https://godoc.org/github.com/wallclockbuilder/convey?status.svg)](http://godoc.org/github.com/wallclockbuilder/convey)
 
 Installation
 ------------
 
-	$ go get github.com/smartystreets/convey
+	$ go get github.com/wallclockbuilder/convey
 
 [Quick start]
 -----------
